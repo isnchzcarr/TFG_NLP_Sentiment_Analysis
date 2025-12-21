@@ -24,7 +24,7 @@ El código se divide en 5 notebooks modulares que deben ejecutarse secuencialmen
 | **04** | `Evaluacion_transferencia.ipynb` | Validación cruzada. Evalúa los modelos en dominios no vistos (Amazon/Yelp). |
 | **05** | `Implementacion_explicabilidad_sesgo.ipynb` | Auditoría Ética. Análisis SHAP/LIME y algoritmo de mitigación (CDA). |
 
-Nota: "Se recomienda descargar los archivos para su visualización por errores de compatibilidad de los metadatos de Colab"
+Nota: Se recomienda descargar los archivos para su visualización por errores de compatibilidad de los metadatos de Colab
 
 ## Requisitos de ejecución
 
